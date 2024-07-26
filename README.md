@@ -1,1 +1,1 @@
-# RGB
+print("Hello world");
